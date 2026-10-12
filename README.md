@@ -16,7 +16,6 @@
 
 <br/><br/>
 
-<img src="https://visitcount.itsvg.in/api?id=Codeygodd&icon=6&color=1" alt="Profile views" height="28"/>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2ea043?style=for-the-badge&labelColor=0f0c29" alt="Open to work"/>
 
 </div>
