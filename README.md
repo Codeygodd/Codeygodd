@@ -88,7 +88,7 @@
 <br/>
 
 **🟩 Contribution Calendar**<br/>
-<img src="https://ghchart.rshah.org/00F5D4/Codeygodd" width="95%" alt="Contribution calendar"/>
+<img src="https://ghchart.rshah.org/Codeygodd" width="95%" alt="Contribution calendar"/>
 
 </div>
 
