@@ -22,22 +22,16 @@
 
 <br/>
 
-<!-- ═══════════════ WHOAMI ═══════════════ -->
-## 🧠 `whoami`
+<!-- ═══════════════ INTRO ═══════════════ -->
+## Hi there 👋, I'm Bishwas!
 
-```ts
-const bishwas = {
-  role:        "Full Stack Developer",
-  basedIn:     "Nepal 🇳🇵  (UTC +05:45)",
-  currentlyAt: "Smit Gifts",
-  experience:  "2+ years shipping web solutions",
-  projects:    "10+ across client & personal work",
-  mission:     "Build useful, eco-friendly, user-first web products",
-  exploring:   ["AI", "Blockchain", "3D on the web"],
-  philosophy:  "Clean code. Real impact. Always shipping.",
-  superpower:  () => "Turning messy problems into intuitive interfaces ✨",
-};
-```
+> 💻 **Full Stack Developer who loves building web apps and open source projects.**
+
+- 🌱 **Currently learning:** AI, Blockchain & System Design
+- 🔭 **Working on:** The Smit Gifts platform and a 3D-first portfolio
+- 🤝 **Open to collaborate on:** Open-source projects, eco-friendly apps and job-hunting tools
+- 📫 **Reach me at:** [pandeybiswas1@gmail.com](mailto:pandeybiswas1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bishwas-pandey-5ab822316/) · [Portfolio](https://bishwaspandey.vercel.app/)
+- ⚡ **Fun fact:** I debug with `console.log()` and stubborn persistence 😄
 
 <!-- ═══════════════ RECRUITER TL;DR ═══════════════ -->
 ## ⚡ The 30-Second Scan
@@ -56,18 +50,6 @@ const bishwas = {
     <td align="center"><h3>📬</h3><b>Reach me</b><br/><a href="mailto:pandeybiswas1@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/bishwas-pandey-5ab822316/">LinkedIn</a></td>
   </tr>
 </table>
-
-<!-- ═══════════════ NOW ═══════════════ -->
-## 🔭 What I'm Up To
-
-| | |
-|---|---|
-| 🏢 **Currently** | Building at **Smit Gifts** |
-| 🌱 **Passion** | Eco-friendly & socially impactful web applications |
-| 💼 **Also building** | Intuitive job-hunting tools that make searching less painful |
-| 🤖 **Exploring** | AI integrations & Blockchain |
-| 🧊 **Experimenting** | 3D-first web experiences (my portfolio is getting a big upgrade) |
-| 🤝 **Open to** | Full-time roles · Freelance · Open-source collaboration |
 
 <!-- ═══════════════ TECH ═══════════════ -->
 ## 🛠️ Tech Arsenal
@@ -88,6 +70,34 @@ const bishwas = {
 
 **🧊 Creative & Low-level**<br/>
 <img src="https://skillicons.dev/icons?i=blender,unity,unreal,c,cpp,dart&perline=6" alt="Creative"/>
+
+</div>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Codeygodd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff&include_all_commits=true&count_private=false" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeygodd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4" height="170" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=Codeygodd&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F5D4&fire=00c6ff&currStreakLabel=00F5D4" width="85%" alt="Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeygodd&bg_color=0f0c29&color=00F5D4&line=00c6ff&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" alt="Contribution graph"/>
+
+<br/>
+
+**🟩 Contribution Calendar**<br/>
+<img src="https://ghchart.rshah.org/00F5D4/Codeygodd" width="95%" alt="Contribution calendar"/>
+
+</div>
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Codeygodd/Codeygodd/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
 
 </div>
 
@@ -147,29 +157,6 @@ const bishwas = {
 <!--
   Repo names: Basico, smit-gift-react, Virtual-mouse, LEET-SOLUTIONS (case matters).
 -->
-
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Codeygodd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff&include_all_commits=true&count_private=false" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeygodd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4" height="170" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=Codeygodd&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F5D4&fire=00c6ff&currStreakLabel=00F5D4" width="85%" alt="Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeygodd&bg_color=0f0c29&color=00F5D4&line=00c6ff&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" alt="Contribution graph"/>
-
-</div>
-
-<!-- ═══════════════ SNAKE ═══════════════ -->
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Codeygodd/Codeygodd/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
-
-</div>
 
 <!-- ═══════════════ HOW I BUILD ═══════════════ -->
 ## 🧭 How I Build
