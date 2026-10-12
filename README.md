@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Codeygodd&label=PROFILE%20VIEWS&color=302b63&style=for-the-badge" alt="Profile views"/>
+<img src="https://visitcount.itsvg.in/api?id=Codeygodd&icon=6&color=1" alt="Profile views" height="28"/>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2ea043?style=for-the-badge&labelColor=0f0c29" alt="Open to work"/>
 
 </div>
@@ -103,7 +103,7 @@ const bishwas = {
       <a href="https://github.com/Codeygodd/basico">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=basico&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff" alt="basico"/>
       </a>
-      <br/><sub><b>🧱 Basico</b> · fundamentals-first build</sub>
+      <br/><sub><b>🧱 Basico</b> · a web app to track and improve everyday life</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Codeygodd/smit-gift-react">
@@ -117,11 +117,11 @@ const bishwas = {
       <a href="https://github.com/Codeygodd/virtual-mouse">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=virtual-mouse&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff" alt="virtual-mouse"/>
       </a>
-      <br/><sub><b>🖱️ Virtual Mouse</b> · control the cursor without touching it</sub>
+      <br/><sub><b>🖱️ Virtual Mouse</b> · hand-gesture cursor control via webcam</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Codeygodd/leetcode-solutions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=leetcode-solutions&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff" alt="leetcode-solutions"/>
+      <a href="https://github.com/Codeygodd/LEET-SOLUTIONS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=LEET-SOLUTIONS&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff" alt="LEET-SOLUTIONS"/>
       </a>
       <br/><sub><b>🧮 LeetCode Solutions</b> · problem solving & DSA</sub>
     </td>
@@ -136,9 +136,9 @@ const bishwas = {
 
 | Project | Skill it proves | Highlights |
 |---|---|---|
-| 🧱 **Basico** | Clean fundamentals & structure | Simple, well-organised codebase you can read in minutes |
+| 🧱 **Basico** | Product thinking & full-stack basics | A website that helps people track and improve their everyday life |
 | 🎁 **Smit Gifts React App** | Real-world, production-grade engineering | Optimised modules, complete backend, built for a live business |
-| 🖱️ **Virtual Mouse** | Creativity & hands-on problem solving | Human-computer interaction: input without a physical mouse |
+| 🖱️ **Virtual Mouse** | Python, computer vision & creativity | Index finger moves the cursor, pinch gestures trigger clicks, all from a webcam |
 | 🧮 **LeetCode Solutions** | Algorithms & data structures | Consistent practice, optimised solutions, interview-ready thinking |
 
 > 🌐 Want the live demos and full write-ups? See my [portfolio](https://bishwaspandey.vercel.app/).
@@ -146,8 +146,7 @@ const bishwas = {
 </details>
 
 <!--
-  Repo names above are my best guess: basico, smit-gift-react, virtual-mouse, leetcode-solutions.
-  If a name differs, change repo=NAME and the github.com/Codeygodd/NAME link.
+  Repo names: Basico, smit-gift-react, Virtual-mouse, LEET-SOLUTIONS (case matters).
 -->
 
 <!-- ═══════════════ STATS ═══════════════ -->
