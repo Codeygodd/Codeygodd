@@ -93,9 +93,8 @@
 <!-- ═══════════════ SNAKE ═══════════════ -->
 <div align="center">
 
-### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Codeygodd/Codeygodd/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
+
 
 </div>
 
