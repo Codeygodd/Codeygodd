@@ -83,8 +83,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=Codeygodd&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F5D4&fire=00c6ff&currStreakLabel=00F5D4" width="85%" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeygodd&bg_color=0f0c29&color=00F5D4&line=00c6ff&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" alt="Contribution graph"/>
-
 <br/>
 
 **🟩 Contribution Calendar**<br/>
