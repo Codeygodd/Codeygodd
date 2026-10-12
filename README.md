@@ -1,177 +1,232 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24c6dc&text=Bishwas%20Pandey&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast%20%E2%80%A2%20Exploring%20AI%20%26%20Blockchain&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f0c29,50:302b63,100:00c6ff&text=Bishwas%20Pandey&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descSize=22&descAlignY=60" width="100%" alt="Bishwas Pandey banner"/>
 
 <a href="https://github.com/Codeygodd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=720&lines=Building+scalable+web+apps+that+solve+real+problems;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Clean+code.+Fast+UX.+Shipped+to+production.;Open+to+opportunities+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=760&height=60&lines=Turning+ideas+into+shipped+products+%F0%9F%9A%80;Full+Stack+%7C+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+eco-friendly+%26+socially+impactful+web+apps+%F0%9F%8C%B1;Exploring+AI+%C3%97+Blockchain+%F0%9F%A4%96;Open+to+opportunities+%E2%80%94+let%27s+build+something+great" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<a href="https://bishwaspandey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bishwaspandey.vercel.app-24C6DC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29"/></a>
-<a href="https://www.linkedin.com/in/bishwas-pandey-5ab822316/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/></a>
-<a href="mailto:pandeybiswas1@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://bishwaspandey.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-bishwaspandey.vercel.app-00c6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://www.linkedin.com/in/bishwas-pandey-5ab822316/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/></a>
+<a href="mailto:pandeybiswas1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://medium.com/@BishwasPandey"><img src="https://img.shields.io/badge/BLOG-Medium-00F5D4?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f0c29"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Codeygodd&label=Profile%20Views&color=24c6dc&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/badge/Based%20in-Nepal%20%F0%9F%87%B3%F0%9F%87%B5-302b63?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Codeygodd&label=PROFILE%20VIEWS&color=302b63&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2ea043?style=for-the-badge&labelColor=0f0c29" alt="Open to work"/>
 
 </div>
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<br/>
 
-## 👋 Hello, World
+<!-- ═══════════════ WHOAMI ═══════════════ -->
+## 🧠 `whoami`
 
 ```ts
 const bishwas = {
-  name: "Bishwas Pandey",
-  role: "Full Stack Developer",
-  location: "Nepal 🇳🇵",
+  role:        "Full Stack Developer",
+  basedIn:     "Nepal 🇳🇵  (UTC +05:45)",
   currentlyAt: "Smit Gifts",
-  experience: "2+ years",
-  projectsShipped: "10+",
-  focus: ["Web Development", "Open Source", "AI", "Blockchain"],
-  mission: "Build useful, user-focused software that makes a real impact.",
-  lookingFor: "Impactful teams, challenging problems, and open-source collaborations"
+  experience:  "2+ years shipping web solutions",
+  projects:    "10+ across client & personal work",
+  mission:     "Build useful, eco-friendly, user-first web products",
+  exploring:   ["AI", "Blockchain", "3D on the web"],
+  philosophy:  "Clean code. Real impact. Always shipping.",
+  superpower:  () => "Turning messy problems into intuitive interfaces ✨",
 };
 ```
 
-I build web applications that address real-world problems, from **eco-friendly platforms** to **job-hunting tools**. I care about clean architecture, performance, and interfaces people actually enjoy using.
+<!-- ═══════════════ RECRUITER TL;DR ═══════════════ -->
+## ⚡ The 30-Second Scan
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h3>💼</h3><b>Role</b><br/>Full Stack Developer</td>
+    <td align="center" width="25%"><h3>⏱️</h3><b>Experience</b><br/>2+ years</td>
+    <td align="center" width="25%"><h3>🚀</h3><b>Shipped</b><br/>10+ projects</td>
+    <td align="center" width="25%"><h3>🌍</h3><b>Works</b><br/>Remote-friendly · UTC+5:45</td>
+  </tr>
+  <tr>
+    <td align="center"><h3>🧩</h3><b>Core Stack</b><br/>React · Next.js · Node · TypeScript</td>
+    <td align="center"><h3>🗄️</h3><b>Data</b><br/>MongoDB · MySQL</td>
+    <td align="center"><h3>☁️</h3><b>Cloud</b><br/>AWS · Cloudflare · Vercel</td>
+    <td align="center"><h3>📬</h3><b>Reach me</b><br/><a href="mailto:pandeybiswas1@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/bishwas-pandey-5ab822316/">LinkedIn</a></td>
+  </tr>
+</table>
+
+<!-- ═══════════════ NOW ═══════════════ -->
+## 🔭 What I'm Up To
 
 | | |
 |---|---|
-| 🌱 **Building** | Eco-friendly and socially impactful web applications |
-| 💼 **Solving** | Job-hunting pain points with intuitive tooling |
-| 🧠 **Exploring** | AI and Blockchain |
-| 🤝 **Open to** | Full-time roles, freelance work, and open-source collaboration |
+| 🏢 **Currently** | Building at **Smit Gifts** |
+| 🌱 **Passion** | Eco-friendly & socially impactful web applications |
+| 💼 **Also building** | Intuitive job-hunting tools that make searching less painful |
+| 🤖 **Exploring** | AI integrations & Blockchain |
+| 🧊 **Experimenting** | 3D-first web experiences (my portfolio is getting a big upgrade) |
+| 🤝 **Open to** | Full-time roles · Freelance · Open-source collaboration |
 
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-
+<!-- ═══════════════ TECH ═══════════════ -->
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Frontend**
+**🎨 Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,jquery&perline=9" alt="Frontend"/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+**⚙️ Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,cs,dotnet,graphql&perline=8" alt="Backend"/>
 
-**Backend & Databases**
+**🗄️ Database & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,cloudflare,vercel&perline=5" alt="Database and Cloud"/>
 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+**🧰 Tools & Workflow**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,wordpress,powershell&perline=5" alt="Tools"/>
 
-**Languages**
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
-**Cloud, DevOps & Tools**
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-
-**Design & Creative**
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+**🧊 Creative & Low-level**<br/>
+<img src="https://skillicons.dev/icons?i=blender,unity,unreal,c,cpp,dart&perline=6" alt="Creative"/>
 
 </div>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-
+<!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Codeygodd/smit-gift">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=smit-gift&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Codeygodd/smit-gift-react">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=smit-gift-react&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Codeygodd/basico">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=basico&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff" alt="basico"/>
+      </a>
+      <br/><sub><b>🧱 Basico</b> · fundamentals-first build</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Codeygodd/smit-gift-react">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=smit-gift-react&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff" alt="smit-gift-react"/>
+      </a>
+      <br/><sub><b>🎁 Smit Gifts React App</b> · production client project</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Codeygodd/virtual-mouse">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=virtual-mouse&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff" alt="virtual-mouse"/>
+      </a>
+      <br/><sub><b>🖱️ Virtual Mouse</b> · control the cursor without touching it</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Codeygodd/leetcode-solutions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeygodd&repo=leetcode-solutions&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff" alt="leetcode-solutions"/>
+      </a>
+      <br/><sub><b>🧮 LeetCode Solutions</b> · problem solving & DSA</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+<details open>
+<summary><b>🔎 What each project says about me</b></summary>
 <br/>
 
-| Project | What it is | Stack |
+| Project | Skill it proves | Highlights |
 |---|---|---|
-| 🎁 **[smit-gift](https://github.com/Codeygodd/smit-gift)** | A clean, modern website built for **Smit Gifts Pvt. Ltd.** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| ⚙️ **[smit-gift-react](https://github.com/Codeygodd/smit-gift-react)** | A performance-optimized build with a full backend and advanced modules | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| 🧱 **Basico** | Clean fundamentals & structure | Simple, well-organised codebase you can read in minutes |
+| 🎁 **Smit Gifts React App** | Real-world, production-grade engineering | Optimised modules, complete backend, built for a live business |
+| 🖱️ **Virtual Mouse** | Creativity & hands-on problem solving | Human-computer interaction: input without a physical mouse |
+| 🧮 **LeetCode Solutions** | Algorithms & data structures | Consistent practice, optimised solutions, interview-ready thinking |
 
-> 🔎 More projects and case studies live on my **[portfolio](https://bishwaspandey.vercel.app/)**.
+> 🌐 Want the live demos and full write-ups? See my [portfolio](https://bishwaspandey.vercel.app/).
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+</details>
 
+<!--
+  Repo names above are my best guess: basico, smit-gift-react, virtual-mouse, leetcode-solutions.
+  If a name differs, change repo=NAME and the github.com/Codeygodd/NAME link.
+-->
+
+<!-- ═══════════════ STATS ═══════════════ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Codeygodd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&border_radius=12" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeygodd&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api?username=Codeygodd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00c6ff&include_all_commits=true&count_private=false" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeygodd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4" height="170" alt="Top languages"/>
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=Codeygodd&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F5D4&fire=00c6ff&currStreakLabel=00F5D4" width="85%" alt="Streak"/>
 
-<img src="https://streak-stats.demolab.com?user=Codeygodd&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Codeygodd&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeygodd&bg_color=0f0c29&color=00F5D4&line=00c6ff&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" alt="Contribution graph"/>
 
 </div>
 
-<!-- ═══════════════════════════ PRINCIPLES ═══════════════════════════ -->
+<!-- ═══════════════ SNAKE ═══════════════ -->
+<div align="center">
 
-## 🧭 How I Work
+### 🐍 Contribution Snake
 
-- **User first.** I start with the problem and the person using the product, not the tech.
-- **Ship, then refine.** Small, frequent releases with clean, readable commits.
-- **Performance matters.** Fast load times and optimized backends are features, not extras.
-- **Always learning.** Currently going deeper into AI and Blockchain.
-- **Open by default.** I enjoy collaborating, reviewing code, and contributing to open source.
+<img src="https://raw.githubusercontent.com/Codeygodd/Codeygodd/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
 
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+</div>
 
-## 🤝 Let's Build Something Great
+<!-- ═══════════════ HOW I BUILD ═══════════════ -->
+## 🧭 How I Build
+
+```mermaid
+flowchart LR
+    A([💡 Problem]) --> B[🔍 Understand users]
+    B --> C[🧱 Design & architecture]
+    C --> D[⚡ Build in TypeScript]
+    D --> E[🧪 Test & optimise]
+    E --> F[🚢 Ship & iterate]
+    F -.feedback.-> B
+```
+
+<details>
+<summary><b>🧱 Engineering principles I stick to</b></summary>
+<br/>
+
+- ✅ **Readable over clever** — code is read far more than it is written
+- ✅ **Performance is a feature** — fast pages convert and retain
+- ✅ **Ship small, ship often** — meaningful commits, tight feedback loops
+- ✅ **Design with empathy** — if users have to think, I haven't finished
+- ✅ **Document as I go** — future me (and teammates) say thanks
+
+</details>
+
+<!-- ═══════════════ ROADMAP ═══════════════ -->
+## 🗺️ Learning Roadmap
+
+```mermaid
+timeline
+    title Levelling up
+    Now        : Full Stack with TypeScript, React, Next.js
+               : Performance & backend optimisation
+    Next       : AI-powered features & LLM integrations
+               : System design & DevOps
+    Exploring  : Blockchain & Web3
+               : 3D web experiences
+```
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🤝 Let's Connect
 
 <div align="center">
 
-Whether you're hiring, collaborating, or just want to talk code, I'd love to hear from you.
+**Got a product to build, a team to join, or an open-source idea to explore?**
 
-<a href="https://bishwaspandey.vercel.app/"><img src="https://img.shields.io/badge/🌐_View_Portfolio-24C6DC?style=for-the-badge&labelColor=0f0c29"/></a>
-<a href="https://www.linkedin.com/in/bishwas-pandey-5ab822316/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&labelColor=0f0c29"/></a>
-<a href="mailto:pandeybiswas1@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&labelColor=0f0c29"/></a>
+<a href="mailto:pandeybiswas1@gmail.com"><img src="https://img.shields.io/badge/✉️_Say_Hello-00c6ff?style=for-the-badge&labelColor=0f0c29"/></a>
+<a href="https://bishwaspandey.vercel.app/"><img src="https://img.shields.io/badge/🌐_See_My_Work-302b63?style=for-the-badge&labelColor=0f0c29"/></a>
+<a href="https://www.linkedin.com/in/bishwas-pandey-5ab822316/"><img src="https://img.shields.io/badge/💼_Let's_Network-0A66C2?style=for-the-badge&labelColor=0f0c29"/></a>
 
 <br/><br/>
 
-```text
- ┌────────────────────────────────────────────────────┐
- │  while (alive) { learn(); build(); ship(); repeat } │
- └────────────────────────────────────────────────────┘
-```
+<sub>⭐ If something here caught your eye, drop a star on a repo — it genuinely makes my day.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24c6dc,50:302b63,100:0f0c29&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00c6ff,50:302b63,100:0f0c29&section=footer&text=Keep%20learning.%20Keep%20building.%20Keep%20growing.&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%" alt="Footer"/>
 
 </div>
